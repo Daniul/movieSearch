@@ -11,9 +11,8 @@
 			return {
 				props: { movieDetail }
 			};
-		} else {
-			return {};
 		}
+		return {};
 	}
 </script>
 
