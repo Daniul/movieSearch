@@ -12,7 +12,9 @@
 				props: { popular: data.results }
 			};
 		}
-		return {};
+		return {
+			props: { popular: 'NONE' }
+		};
 	}
 </script>
 
