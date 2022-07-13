@@ -12,7 +12,7 @@
 				props: { movieResult: data.results }
 			};
 		}
-		return {};
+        return {};
 	}
 </script>
 
